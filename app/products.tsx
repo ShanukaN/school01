@@ -6,7 +6,7 @@ import "../global.css";
 const Products = () => {
   return (
     <View>
-      <Text>Products</Text>
+      <Text>New product</Text>
       <Text>Products</Text>
       <Text>Products</Text>
       <Text>Products</Text>
