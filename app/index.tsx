@@ -8,7 +8,7 @@ const Index = () => {
   return (
     <View>
       <Header></Header>
-      <Text className="text-5xl font-bold text-green-700">Index</Text>
+      <Text className="text-5xl font-bold text-green-700">Home page</Text>
       <Link href={"/category"}>Category</Link>
       <Link href={"/products"}>products</Link>
       <Link
